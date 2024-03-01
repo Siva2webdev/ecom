@@ -1,13 +1,14 @@
 {
-  "name": "e-commerce",
+  "name": "ecom",
   "version": "1.0.0",
   "description": "Ecommerce React",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx parcel index.html"
+    "start": "npx parcel index.html",
+    "build": "parcel build index.html"
   },
-  "author": "",
+  "author": "Sivareddy",
   "license": "ISC",
   "devDependencies": {
     "buffer": "^6.0.3",
